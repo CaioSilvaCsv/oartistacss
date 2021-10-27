@@ -67,11 +67,6 @@ h1, h2{
   text-decoration: none;
 }
 
-#second{
-  font-family: 'Amatic SC';
-  font-size: 25px;
-}
-
 .capa{
   margin-left: -70px;
 }
@@ -112,9 +107,11 @@ img{
 }
 
 #acesso{
+  font-family: 'Amatic SC';
+  font-size: 25px;
+  text-align: center;
   padding-top: 20px;
   padding-bottom: 25px;
-  text-align: center;
   margin-top: 60px;
   margin-right: 100px;
   width: 250px;
