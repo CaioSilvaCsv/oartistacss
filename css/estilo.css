@@ -28,7 +28,7 @@ header, #principal, #second, #contato, #stream {
   border-radius: 0.4rem;
   padding: 1px;
   text-align: right;
-  
+  text-decoration: none;
 }
 
 .f {
